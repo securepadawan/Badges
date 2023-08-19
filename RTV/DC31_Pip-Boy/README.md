@@ -234,21 +234,21 @@ After successfully answering all three, you get the following:
 PRO TIP - The arrow doesn't 100% match the answer. You will have to make sure when scrolling through the answers you are choosing the correct line (line 1, line 2, line 3)
 
 <details><summary>Troll Bridgekeeper</summary>
-Question 1 - Wired Equivalent Privacy
-Question 2 - Short encryption length, susceptible to brute-force
-Question 3 - WPA
+Question 1 - Wired Equivalent Privacy <br>
+Question 2 - Short encryption length, susceptible to brute-force <br>
+Question 3 - WPA <br>
 </details>
 
 <details><summary>Blue Halo Bridgekeeper</summary>
-Question 1 - To secure wireless communication by encrypting data
-Question 2 - TKIP
-Question 3 - Longer encryption keys to prevent brute-force attacks
+Question 1 - To secure wireless communication by encrypting data <br>
+Question 2 - TKIP <br>
+Question 3 - Longer encryption keys to prevent brute-force attacks <br>
 </details>
 
 <details><summary>Ghost Bridgekeeper</summary>
-Question 1 - A network with no security measures & Encryption
-Question 2 - No it is not safe as your data has no protection
-Question 3 - Open
+Question 1 - A network with no security measures & Encryption <br>
+Question 2 - No it is not safe as your data has no protection <br>
+Question 3 - Open <br>
 </details>
 
 # Easter Egg
